@@ -19,11 +19,12 @@ This DDOS Detection System is designed to accurately identify Distributed Denial
 To get started with the DDOS Detection System, follow these steps:
 
 1. *Clone the Repository*: Clone the project repository to your local machine.
-   bash
+   ```bash
    git clone https://github.com/yourusername/ddos-detection-system.git
+
    
 2. *Install Dependencies*: Navigate to the project directory and install the required Python packages.
-   bash
+   ```bash
    cd ddos-detection-system
    pip install -r requirements.txt
    
